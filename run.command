@@ -1,0 +1,1 @@
+R -e "shiny::runApp('/Users/fabianmundt/Dropbox/GDA\ Package/ShinyMCA')"
